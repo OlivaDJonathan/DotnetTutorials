@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/BuilderDesignPattern/">
+    <Project Path="BuilderDesignPattern/BuilderDesignPattern/BuilderDesignPattern.csproj" />
+  </Folder>
+</Solution>
